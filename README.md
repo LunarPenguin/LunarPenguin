@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a a professional software engineer with an affinity for data scraping and collecting Linux ISO's 😉
+
+On my profile you will find forks for scraping projects which are no longer maintained upstream but i like using and thus i maintain myself and projects to scrape data from sites/services which dont have a good quality open source scraper available so i decided to write my own.
 <!--
 **LunarPenguin/LunarPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
